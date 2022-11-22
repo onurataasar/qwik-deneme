@@ -11,8 +11,8 @@ export default component$(() => {
         </section>
       </main>
       <footer>
-        <a href="https://www.builder.io/" target="_blank">
-          Made with ♡ by Builder.io
+        <a href="https://www.github.com/onurataasar" target="_blank">
+          Made with Qwik by Onur Ata Asar
         </a>
       </footer>
     </>

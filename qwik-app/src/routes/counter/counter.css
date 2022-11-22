@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button {
+    background-color: #000000;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 7px;
+    border-radius: 100px;
+    @apply px-8 text-white
+}
+
